@@ -39,9 +39,8 @@ I work with a variety of programming languages and technologies, including:
 ---
 
 ## 📫 Reach Me At
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pecdeckfly&show_icons=true&theme=radical)](https://github.com/pecdeckfly)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-sudhakaran-2a7213253)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G0wth9m&show_icons=true&theme=radical)](https://github.com/G0wth9m)
 ---
 
 ## 😄 Pronouns
